@@ -48,7 +48,27 @@ export default function Sidebar() {
         <hr className='sidebarHr'/>
         <ul className='sidebarFriendList'>
           <li className='sidebarFriend'>
-            <img className='sidebarFriendImg' src='/assets/friend1.JPG' alt='' />
+            <img className='sidebarFriendImg' src='./assets/friend1.JPG' alt='' />
+            <span className="sidebarFriendName">Jane Doe</span>
+          </li>
+          <li className='sidebarFriend'>
+            <img className='sidebarFriendImg' src='./assets/friend1.JPG' alt='' />
+            <span className="sidebarFriendName">Jane Doe</span>
+          </li>
+          <li className='sidebarFriend'>
+            <img className='sidebarFriendImg' src='./assets/friend1.JPG' alt='' />
+            <span className="sidebarFriendName">Jane Doe</span>
+          </li>
+          <li className='sidebarFriend'>
+            <img className='sidebarFriendImg' src='./assets/friend1.JPG' alt='' />
+            <span className="sidebarFriendName">Jane Doe</span>
+          </li>
+          <li className='sidebarFriend'>
+            <img className='sidebarFriendImg' src='./assets/friend1.JPG' alt='' />
+            <span className="sidebarFriendName">Jane Doe</span>
+          </li>
+          <li className='sidebarFriend'>
+            <img className='sidebarFriendImg' src='./assets/friend1.JPG' alt='' />
             <span className="sidebarFriendName">Jane Doe</span>
           </li>
         </ul>
